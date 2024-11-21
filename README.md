@@ -1,1 +1,1 @@
-Bugüne kadar edindiğim C# bilgileri ile bu programı yazdım. Eksiklikler, mantık hataları fazla. Umarım zmaanla dzelicek :)
+Bugüne kadar edindiğim C# bilgileri ile bu programı yazdım. Eksiklikler, mantık hataları fazla. Umarım zamanla dzelicek :)
