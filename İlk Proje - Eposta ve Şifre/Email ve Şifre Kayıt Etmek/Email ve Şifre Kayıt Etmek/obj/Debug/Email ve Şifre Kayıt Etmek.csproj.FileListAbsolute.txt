@@ -1,0 +1,10 @@
+D:\KENDİ YAPTIKLARIM\Email ve Şifre Kayıt Etmek\Email ve Şifre Kayıt Etmek\bin\Debug\Email ve Şifre Kayıt Etmek.exe.config
+D:\KENDİ YAPTIKLARIM\Email ve Şifre Kayıt Etmek\Email ve Şifre Kayıt Etmek\bin\Debug\Email ve Şifre Kayıt Etmek.exe
+D:\KENDİ YAPTIKLARIM\Email ve Şifre Kayıt Etmek\Email ve Şifre Kayıt Etmek\bin\Debug\Email ve Şifre Kayıt Etmek.pdb
+D:\KENDİ YAPTIKLARIM\Email ve Şifre Kayıt Etmek\Email ve Şifre Kayıt Etmek\obj\Debug\Email ve Şifre Kayıt Etmek.csproj.AssemblyReference.cache
+D:\KENDİ YAPTIKLARIM\Email ve Şifre Kayıt Etmek\Email ve Şifre Kayıt Etmek\obj\Debug\Email_ve_Şifre_Kayıt_Etmek.Form1.resources
+D:\KENDİ YAPTIKLARIM\Email ve Şifre Kayıt Etmek\Email ve Şifre Kayıt Etmek\obj\Debug\Email_ve_Şifre_Kayıt_Etmek.Properties.Resources.resources
+D:\KENDİ YAPTIKLARIM\Email ve Şifre Kayıt Etmek\Email ve Şifre Kayıt Etmek\obj\Debug\Email ve Şifre Kayıt Etmek.csproj.GenerateResource.cache
+D:\KENDİ YAPTIKLARIM\Email ve Şifre Kayıt Etmek\Email ve Şifre Kayıt Etmek\obj\Debug\Email ve Şifre Kayıt Etmek.csproj.CoreCompileInputs.cache
+D:\KENDİ YAPTIKLARIM\Email ve Şifre Kayıt Etmek\Email ve Şifre Kayıt Etmek\obj\Debug\Email ve Şifre Kayıt Etmek.exe
+D:\KENDİ YAPTIKLARIM\Email ve Şifre Kayıt Etmek\Email ve Şifre Kayıt Etmek\obj\Debug\Email ve Şifre Kayıt Etmek.pdb
